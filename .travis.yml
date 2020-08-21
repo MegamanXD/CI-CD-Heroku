@@ -1,7 +1,6 @@
 language: python
 os:
   - linux
-  - osx
 dist: trusty
 script:
   - python -m pytest -v
